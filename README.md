@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qakoala
-- 👀 I’m interested in QA + Automation
-- 🌱 I’m currently learning Cypress, TestCafe, React
-- 💞️ I’m looking to collaborate on Cypress/TestCafe and React
+- 👀 I’m interested in Testing + Javascript Automation
+- 🌱 I’m currently learning Javascript, Cypress
+- 💞️ I’m looking to collaborate on Javascript Cypress Automation
 - 📫 How to reach me: via Github
 
 <!---
