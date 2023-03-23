@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @qakoala
-- 👀 I’m interested in Testing + Javascript Automation
-- 🌱 I’m currently learning Javascript, Cypress
-- 💞️ I’m looking to collaborate on Javascript Cypress Automation
-- 📫 How to reach me: via Github
+- 👋 Hi, I’m Abdel Z.
+- 👀 I’m interested in Quality Assurance Methodologies & Javascript Automation (UI & API)
+- 🌱 I’m currently adding Cypress Automation Scenarios to this Repo
+- 💞️ I’m looking to collaborate on Cypress Automations & anything Quality Assurance Related
+- 📫 How to reach me: via Github or LinkedIn
 
 <!---
 qakoala/qakoala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
