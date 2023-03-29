@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdel Z.
-- 👀 I’m interested in Quality Assurance Methodologies & Javascript Automation (UI & API)
+- 👀 I’m interested in Javascript Automation (UI & API) and Quality Assurance Methodologies
 - 🌱 I’m currently adding Cypress Automation Scenarios to this Repo
 - 💞️ I’m looking to collaborate on Cypress Automations & anything Quality Assurance Related
 - 📫 How to reach me: via Github or LinkedIn
