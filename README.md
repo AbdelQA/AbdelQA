@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abdel Z.
-- 👀 I’m interested in Test Automation (UI & API) and Quality Assurance Methodologies
-- 🌱 I’m currently adding Cypress, Selenium WebDriver and Playwright Automation Scenarios
-- 💞️ I’m looking to collaborate on Test Automation
-- 📫 How to reach me: via Github or LinkedIn
+- 👋 Hi, I’m Abdel Zakaria
+- 👀 I’m interested in Test Automation
+- 🌱 I’m currently adding automation to the Cypress and Selenium WebDriver repos and exploring Playwright (Microsoft backed automation tool)
+- 💞️ I’m looking to sharpen my automation skills with new and existing Test Automation Tools
+- 📫 How to reach me: Github or LinkedIn https://www.linkedin.com/in/abdelzakaria/
