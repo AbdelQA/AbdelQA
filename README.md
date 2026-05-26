@@ -12,13 +12,13 @@ I’m currently building projects around:
 
 ## Featured Project
 
-### AI QA DeepEval RAG Evaluation Lab
+### [AI QA DeepEval RAG Evaluation Lab](https://github.com/AbdelQA/ai-qa-deepeval-rag-eval-lab)
 
 A local LLM evaluation project using DeepEval, Ollama, and OpenAI-as-judge to test RAG-style chatbot responses for answer relevancy, faithfulness, and policy correctness.
 
 ## What I'm Working Toward
 
-I'm sharpening my automation and AI evaluation skills to transition deeper into AI QA, LLM testing, and Evaluations Engineering.
+I'm sharpening my automation and AI evaluation skills with a focus on AI QA, LLM testing, and Evaluations Engineering.
 
 ## Connect
 
